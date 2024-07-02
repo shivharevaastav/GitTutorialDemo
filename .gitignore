@@ -1,0 +1,9 @@
+*.log
+/dir/
+static/dir
+db.accdb
+
+igfile1.txt
+igfile2.txt
+igfile3.txt
+igfile4.txt
